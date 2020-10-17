@@ -1,2 +1,6 @@
 the number of palents are
+<<<<<<< HEAD
 	= 8
+=======
+	= 9
+>>>>>>> branch-a
